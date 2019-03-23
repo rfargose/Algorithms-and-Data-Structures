@@ -1,3 +1,4 @@
+//program to find next possible move on the chess board
 package rahel;
 
 import java.util.*;
